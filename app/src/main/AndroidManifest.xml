@@ -4,9 +4,7 @@
     android:versionName="1.0"
     android:compileSdkVersion="30"
     android:compileSdkVersionCodename="11"
-    package="il.ma.survivegame"
-    android:platformBuildVersionCode="30"
-    android:platformBuildVersionName="11">
+    package="il.ma.survivegame">
 <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="30"/>
 <uses-permission android:name="android.permission.INTERNET"/>
 <application android:theme="@style/Theme.SurviveGame"
